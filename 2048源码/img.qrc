@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tupian/0.png</file>
+        <file>tupian/2.png</file>
+        <file>tupian/4.png</file>
+        <file>tupian/8.png</file>
+        <file>tupian/16.png</file>
+        <file>tupian/32.png</file>
+        <file>tupian/64.png</file>
+        <file>tupian/128.png</file>
+        <file>tupian/256.png</file>
+        <file>tupian/512.png</file>
+        <file>tupian/1024.png</file>
+        <file>tupian/2048.png</file>
+        <file>tupian/4096.png</file>
+        <file>tupian/sx.ico</file>
+        <file>tupian/backimg.jpg</file>
+        <file>tupian/2048pic.png</file>
+        <file>tupian/resetpic.jpg</file>
+    </qresource>
+</RCC>
